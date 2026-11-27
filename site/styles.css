@@ -2350,7 +2350,7 @@ button {
 
   .cta-row .btn-companion,
   .banner-cta-row .btn-companion {
-    flex: 1 1 100%;
+    flex: 1 1 calc(50% - 4px);
   }
 
   .cta-row .btn .btn-icon,
